@@ -3,9 +3,9 @@
 This C++ code includes a set of functions that process images. The code can read an image file, apply a thresholding function, perform k-means clustering, and compare two images to check for discrepancies. The code is designed to be versatile and easy to modify.
 
 ### _Functions_
-image_pixel_pickeing
 
-### _Copy code_
+### image_pixel_pickeing
+
 ![image](https://user-images.githubusercontent.com/115175167/229116687-9964f61c-7847-49a8-af6a-fe2cd394f1b2.png)
 
 This function takes in a 2D array, a row and column size, and an image file. It reads the image and stores the pixel values in the 2D array.
